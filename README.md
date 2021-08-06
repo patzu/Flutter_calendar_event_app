@@ -17,7 +17,7 @@ syncfusion_flutter_core: ^19.2.49
 
 syncfusion_flutter_calendar: ^19.2.48
 
-
+##Usage
 ```
 SfCalendar(
                       view: CalendarView.month,
