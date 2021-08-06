@@ -6,8 +6,10 @@ https://www.youtube.com/watch?v=LoDtxRkGDTw
 
 
 
+
+
 *******************************************************************
-Usage of calendar library by Syncfusion:
+Code snippet bellow is usage of another calendar library by Syncfusion and not related to above tutorial and files just personal note:
 
 
 
