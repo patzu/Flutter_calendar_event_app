@@ -12,10 +12,10 @@ Usage of calendar library by Syncfusion:
 
 
 Add bellow dependencies:
-`
+``
 syncfusion_flutter_core: ^19.2.49
 syncfusion_flutter_calendar: ^19.2.48
-`
+``
 ## Usage
 ```dart
     SfCalendar(
